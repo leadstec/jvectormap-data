@@ -1,6 +1,6 @@
 {
   "name": "jvectormap-data",
-  "version": "0.1",
+  "version": "0.0.1",
   "description": "JVectorMap data",
   "repository": {
     "type": "git",
@@ -8,9 +8,6 @@
   },
   "author": "Frank,H.L.Lai <frank@leadstec.com>",
   "license": "MIT",
-  "dependencies": {
-    "jvectormap": "^2.0.4"
-  },
   "keywords": [
     "JVectorMap"
   ]
